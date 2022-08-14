@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlackRuxx 
-- 👀 I’m interested in anime, programming and Music
+- 👀 I’m interested in anime, programming and music
 - 🌱 I’m currently learning python
 
 
